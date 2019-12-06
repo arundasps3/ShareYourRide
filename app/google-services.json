@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390590977245",
+    "firebase_url": "https://shareyourride-84aa3.firebaseio.com",
+    "project_id": "shareyourride-84aa3",
+    "storage_bucket": "shareyourride-84aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390590977245:android:6435e6f767731d68677734",
+        "android_client_info": {
+          "package_name": "com.arundas.shareyourride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390590977245-ljhkvu5u7mpb0n64mcopdtottmv6tlkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arundas.shareyourride",
+            "certificate_hash": "78c8774da5a942facc20d4a064568b190fbe487f"
+          }
+        },
+        {
+          "client_id": "390590977245-4po62hvhj4c7mukv51lc4vgk1vthb3i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTbuo47qYagrTeRDlYggvjcboy0aCImI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390590977245-4po62hvhj4c7mukv51lc4vgk1vthb3i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
